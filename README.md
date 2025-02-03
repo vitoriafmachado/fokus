@@ -1,13 +1,17 @@
 # fokus
 
 # Temporizador fokus com JavaScript
-<!-- Imagem maior -->
-<div style="position: relative; display: inline-block;">
-  <img src="https://via.placeholder.com/800x400" alt="Imagem Maior" style="width: 100%; max-width: 800px;">
-  
-  <!-- Imagem menor sobreposta -->
-  <img src="https://via.placeholder.com/150" alt="Imagem Menor" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 150px;">
-</div>
+
+
+
+![Imagem no Celular](./imagens/Captura%20de%20tela%202025-02-03%20111121.png)
+
+
+
+![Imagem no Tablet](./imagens/Captura%20de%20tela%202025-02-03%20111301.png)
+
+
+
 
 
 ## Sumário
@@ -40,8 +44,11 @@
 <details>
   <summary>🔹 Como Executar o Projeto</summary>
   <ol>
-    <li></li>
+    <li>
       
+   [![Acesse o Projeto](https://img.shields.io/badge/fokus-Acesse%20o%20Projeto-blue)](https://vitoriafmachado.github.io/fokus/)
+    
+   </li>
   </ol>
 </details>
 
